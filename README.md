@@ -10,7 +10,7 @@ This is my submission for the Front-End Mentor [Testimonials Grid](https://www.f
 - HTML5
 - CSS custom properties
 - Flexbox
-- CSS Grid (to position the card in the middle)
+- CSS Grid
 
 [Live Site URL](https://marugy99.github.io/testimonials-grid/).
 
